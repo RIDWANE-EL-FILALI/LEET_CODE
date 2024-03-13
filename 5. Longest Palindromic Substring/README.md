@@ -1,31 +1,29 @@
-5. Longest Palindromic Substring
-Solved
-Medium
-Topics
-Companies
-Hint
-
-Given a string s, return the longest
-palindromic
-substring
-in s.
+# 5. Longest Palindromic Substring
 
 
+![level](https://img.shields.io/badge/level-medium-red?labelColor=black&style=flat)
 
-Example 1:
+### Hint
 
-Input: s = "babad"
-Output: "bab"
-Explanation: "aba" is also a valid answer.
-
-Example 2:
-
-Input: s = "cbbd"
-Output: "bb"
+    Given a string s, return the longest
+    palindromic
+    substring
+    in s.
 
 
 
-Constraints:
+### Examples:
+
+    Input: s = "babad"
+    Output: "bab"
+    Explanation: "aba" is also a valid answer.
+    
+    Input: s = "cbbd"
+    Output: "bb"
+
+
+
+### Constraints:
 
     1 <= s.length <= 1000
     s consist of only digits and English letters.
